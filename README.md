@@ -109,22 +109,22 @@ Step by step guide to becoming a modern frontend developer
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - [✔] Data Structures, Modern Operators and Strings
-- [ ] A Closer Look at Functions
-- [ ] Working With Arrays
+- [✔] A Closer Look at Functions
+- [✔] Working With Arrays
 
 ## WEEK 11
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Numbers, Dates, Intl and Timers
-- [ ] Advanced DOM and Events
-- [ ] Object-Oriented Programming (OOP) With JavaScript
+- [✔] Numbers, Dates, Intl and Timers
+- [✔] Advanced DOM and Events
+- [✔] Object-Oriented Programming (OOP) With JavaScript
 
 ## WEEK 12
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Mapty App: OOP, Geolocation, External Libraries, and More!
+- [✔] Mapty App: OOP, Geolocation, External Libraries, and More!
 - [ ] Asynchronous JavaScript: Promises, Async/Await, and AJAX
 - [ ] Modern JavaScript Development: Modules, Tooling, and Functional
 
