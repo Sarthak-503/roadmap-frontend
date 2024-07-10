@@ -125,16 +125,16 @@ Step by step guide to becoming a modern frontend developer
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - [✔] Mapty App: OOP, Geolocation, External Libraries, and More!
-- [ ] Asynchronous JavaScript: Promises, Async/Await, and AJAX
-- [ ] Modern JavaScript Development: Modules, Tooling, and Functional
+- [✔] Asynchronous JavaScript: Promises, Async/Await, and AJAX
+- [✔] Modern JavaScript Development: Modules, Tooling, and Functional
 
 ## WEEK 13
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Forkify App: Building a Modern Application
-- [ ] Setting Up Git and Deployment
-- [ ] The End!
+- [✔] Forkify App: Building a Modern Application
+- [✔] Setting Up Git and Deployment
+- [✔] The End!
 
 ## WEEK 14
 
@@ -144,8 +144,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Getting Started
-- [ ] JavaScript Refresher
+- [] Getting Started
+- [] JavaScript Refresher
 - [ ] React Basics & Working With Components
 - [ ] Time to Practice: Component Basics
 - [ ] React State & Working with Events
