@@ -146,8 +146,8 @@ Step by step guide to becoming a modern frontend developer
 
 - [✔] Getting Started
 - [✔] JavaScript Refresher
-- [ ] React Basics & Working With Components
-- [ ] Time to Practice: Component Basics
+- [✔] React Basics & Working With Components
+- [✔] Time to Practice: Component Basics
 - [ ] React State & Working with Events
 - [ ] Rendering Lists & Conditional Content
 - [ ] Styling React Components
