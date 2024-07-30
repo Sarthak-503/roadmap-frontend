@@ -194,31 +194,31 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [ ] Introduction
-- [ ] Setting Up Environment
-- [ ] Diving into Material UI Components One By One
-- [ ] Form Handling
-- [ ] Header Navigation Bar Components
-- [ ] Advance Components
-- [ ] Advanced Validations With React Hook Form
-- [ ] Data Grid
-- [ ] Advanced Data Grid With Project
-- [ ] Theming and Styling
-- [ ] Advance Styling with styled function
-- [ ] Dark Mode / Light Mode
-- [ ] Icons
-- [ ] Grid System
-- [ ] Advanced - Responsive Styles
-- [ ] GRID Project - Build Responsive Navigation Bar With Material UI
-- [ ] (Material UI Official) Responsive Navigation bar With Flexbox
-- [ ] Login / Signup Page With Material UI
+- [✔] Introduction
+- [✔] Setting Up Environment
+- [✔] Diving into Material UI Components One By One
+- [✔] Form Handling
+- [✔] Header Navigation Bar Components
+- [✔] Advance Components
+- [✔] Advanced Validations With React Hook Form
+- [✔] Data Grid
+- [✔] Advanced Data Grid With Project
+- [✔] Theming and Styling
+- [✔] Advance Styling with styled function
+- [✔] Dark Mode / Light Mode
+- [✔] Icons
+- [✔] Grid System
+- [✔] Advanced - Responsive Styles
+- [✔] GRID Project - Build Responsive Navigation Bar With Material UI
+- [✔] (Material UI Official) Responsive Navigation bar With Flexbox
+- [✔] Login / Signup Page With Material UI
 
 ## WEEK 20
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [✔] Major Project (Design Modern UI UX Homepage of a Software Application)
-- [✔] Material UI With Typescript
+- [] Major Project (Design Modern UI UX Homepage of a Software Application)
+- [] Material UI With Typescript
 - [] A Major Full Stack Project ( Travel Blog Posting Application )
 
 ## WEEK 21
