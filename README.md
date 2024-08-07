@@ -161,9 +161,9 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Diving Deeper: Working with Fragments, Portals & "Refs"
 - [✔] Advanced: Handling Side Effects, Using Reducers & Using the Context API
 - [✔] Practice Project: Building a Food Order Appn
-- [] A Look Behind The Scenes Of React & Optimization Techniques
-- [ ] An Alternative Way Of Building Components: Class-based Components
-- [ ] Sending Http Requests (e.g. Connecting to a Database)
+- [✔] A Look Behind The Scenes Of React & Optimization Techniques
+- [✔] An Alternative Way Of Building Components: Class-based Components
+- [✔] Sending Http Requests (e.g. Connecting to a Database)
 - [ ] Building Custom React Hooks
 - [ ] Working with Forms & User Input
 - [ ] Practice Project: Adding Http & Forms To The Food Order App
